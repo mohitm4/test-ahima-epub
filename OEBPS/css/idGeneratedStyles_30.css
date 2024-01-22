@@ -1,0 +1,132 @@
+p.Chap-title {
+	-epub-hyphens:none;
+	color:#006db6;
+	font-family:"ITC Franklin Gothic Std Heavy", sans-serif;
+	font-size:2em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.083;
+	margin-bottom:86px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:12px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Index1 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Times, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.222;
+	margin-bottom:0;
+	margin-left:36px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-36px;
+	text-transform:none;
+	widows:1;
+}
+p.Index2 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Times, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.222;
+	margin-bottom:0;
+	margin-left:36px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-24px;
+	text-transform:none;
+	widows:1;
+}
+p.Index3 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Times, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.222;
+	margin-bottom:0;
+	margin-left:36px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-12px;
+	text-transform:none;
+	widows:1;
+}
+span.Italic {
+	font-style:italic;
+	font-weight:normal;
+}
+p.ParaOverride-1 {
+	margin-bottom:53px;
+}
+p.ParaOverride-2 {
+	margin-top:16px;
+}
+p.ParaOverride-3 {
+	margin-top:18px;
+}
+p.ParaOverride-4 {
+	margin-top:21px;
+}
+p.ParaOverride-5 {
+	margin-top:22px;
+}
+p.ParaOverride-6 {
+	margin-top:20px;
+}
+p.ParaOverride-7 {
+	margin-top:10px;
+}
+p.ParaOverride-8 {
+	margin-top:11px;
+}
+span.CharOverride-1 {
+	font-family:Times;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	font-family:Times;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	font-family:Times;
+}
+span._idGenCharOverride-1 {
+	font-family:Times;
+}

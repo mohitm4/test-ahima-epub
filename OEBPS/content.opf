@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="p9781584269380" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xml:lang="en">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <meta name="generator" content="Adobe InDesign 18.5" />
+		<meta property="ibooks:specified-fonts">true</meta>
+        <dc:title>Basic ICD-10-CM and ICD-10-PCS Coding</dc:title>
+		<dc:creator>Brooke N. Palkie, Stacey Walraven,</dc:creator>
+		<dc:date>2024-01-11T08:11:19Z</dc:date>
+		<dc:language>en-GB</dc:language>
+		<dc:language>en-US</dc:language>
+		<meta property="dcterms:modified">2024-01-17T08:11:19Z</meta>
+		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
+        <meta property="a11y:certifiedBy">Benetech via eBOUND Canada</meta>
+        <meta property="a11y:certifierCredential">https://bornaccessible.org/certification/gca-credential/</meta>
+        <meta property="schema:accessMode">visual</meta>
+		 <meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
+        <meta property="schema:accessMode">textual</meta>
+        <meta property="schema:accessModeSufficient">visual,textual</meta>
+        <meta property="schema:accessModeSufficient">textual</meta>
+        <meta property="schema:accessibilityFeature">displayTransformability</meta>
+        <meta property="schema:accessibilityFeature">pageBreakMarkers</meta>
+        <meta property="schema:accessibilityFeature">readingOrder</meta>
+        <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+        <meta property="schema:accessibilityFeature">tableOfContents</meta>
+        <meta property="schema:accessibilityFeature">alternativeText</meta>
+        <meta property="schema:accessibilityHazard">none</meta>
+        <meta property="schema:accessibilityFeature">ARIA</meta>
+        <meta property="schema:accessibilityFeature">longDescription</meta>
+        <meta property="schema:accessibilityFeature">MathML</meta>
+        <meta property="ibooks:specified-fonts">true</meta>
+        <dc:identifier id="p9781584269380">urn:isbn:9781584269380</dc:identifier>
+        <dc:source id="src-id">AC200523</dc:source>
+	    <meta property="source-of" refines="#src-id">pagination</meta>
+        <meta content="1.9.20" name="Continual Engine version"/>
+		<meta name="cover" content="AC200523_new.jpg" />
+	</metadata>
+	<manifest>
+		<item id="cover" href="xhtml/cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="fm_title" href="xhtml/fm_title.xhtml" media-type="application/xhtml+xml" />
+		<item id="fm_copyright" href="xhtml/fm_copyright.xhtml" media-type="application/xhtml+xml" />
+		<item id="fm_content" href="xhtml/fm_content.xhtml" media-type="application/xhtml+xml" />
+		<item id="fm_detail_content" href="xhtml/fm_detail_content.xhtml" media-type="application/xhtml+xml" />
+		<item id="fm_about_author" href="xhtml/fm_about_author.xhtml" media-type="application/xhtml+xml" />
+		<item id="fm_acknowledge" href="xhtml/fm_acknowledge.xhtml" media-type="application/xhtml+xml" />
+		<item id="fm_preface" href="xhtml/fm_preface.xhtml" media-type="application/xhtml+xml" />
+		<item id="fm_additional_practice" href="xhtml/fm_additional_practice.xhtml" media-type="application/xhtml+xml" />
+		<item id="fm_online_resource" href="xhtml/fm_online_resource.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_Intro" href="xhtml/AC200523_Intro.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_01" href="xhtml/AC200523_01.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_02" href="xhtml/AC200523_02.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_03" href="xhtml/AC200523_03.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_04" href="xhtml/AC200523_04.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_05" href="xhtml/AC200523_05.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_06" href="xhtml/AC200523_06.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_07" href="xhtml/AC200523_07.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_08" href="xhtml/AC200523_08.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_09" href="xhtml/AC200523_09.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_10" href="xhtml/AC200523_10.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_11" href="xhtml/AC200523_11.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_12" href="xhtml/AC200523_12.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_13" href="xhtml/AC200523_13.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_14" href="xhtml/AC200523_14.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_15" href="xhtml/AC200523_15.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_16" href="xhtml/AC200523_16.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_17" href="xhtml/AC200523_17.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_18" href="xhtml/AC200523_18.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_19" href="xhtml/AC200523_19.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_20" href="xhtml/AC200523_20.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_21" href="xhtml/AC200523_21.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_22A" href="xhtml/AC200523_22A.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_22B" href="xhtml/AC200523_22B.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_23" href="xhtml/AC200523_23.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_24" href="xhtml/AC200523_24.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_25" href="xhtml/AC200523_25.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_Coding_Self-Test" href="xhtml/AC200523_Coding_Self-Test.xhtml" media-type="application/xhtml+xml" />
+		<item id="AC200523_Index" href="xhtml/AC200523_Index.xhtml" media-type="application/xhtml+xml" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles_0.css" href="css/idGeneratedStyles_0.css" media-type="text/css" />
+		<item id="idGeneratedStyles_1.css" href="css/idGeneratedStyles_1.css" media-type="text/css" />
+		<item id="idGeneratedStyles_2.css" href="css/idGeneratedStyles_2.css" media-type="text/css" />
+		<item id="idGeneratedStyles_3.css" href="css/idGeneratedStyles_3.css" media-type="text/css" />
+		<item id="idGeneratedStyles_4.css" href="css/idGeneratedStyles_4.css" media-type="text/css" />
+		<item id="idGeneratedStyles_5.css" href="css/idGeneratedStyles_5.css" media-type="text/css" />
+		<item id="idGeneratedStyles_6.css" href="css/idGeneratedStyles_6.css" media-type="text/css" />
+		<item id="idGeneratedStyles_7.css" href="css/idGeneratedStyles_7.css" media-type="text/css" />
+		<item id="idGeneratedStyles_8.css" href="css/idGeneratedStyles_8.css" media-type="text/css" />
+		<item id="idGeneratedStyles_9.css" href="css/idGeneratedStyles_9.css" media-type="text/css" />
+		<item id="idGeneratedStyles_10.css" href="css/idGeneratedStyles_10.css" media-type="text/css" />
+		<item id="idGeneratedStyles_11.css" href="css/idGeneratedStyles_11.css" media-type="text/css" />
+		<item id="idGeneratedStyles_12.css" href="css/idGeneratedStyles_12.css" media-type="text/css" />
+		<item id="idGeneratedStyles_13.css" href="css/idGeneratedStyles_13.css" media-type="text/css" />
+		<item id="idGeneratedStyles_14.css" href="css/idGeneratedStyles_14.css" media-type="text/css" />
+		<item id="idGeneratedStyles_15.css" href="css/idGeneratedStyles_15.css" media-type="text/css" />
+		<item id="idGeneratedStyles_16.css" href="css/idGeneratedStyles_16.css" media-type="text/css" />
+		<item id="idGeneratedStyles_17.css" href="css/idGeneratedStyles_17.css" media-type="text/css" />
+		<item id="idGeneratedStyles_18.css" href="css/idGeneratedStyles_18.css" media-type="text/css" />
+		<item id="idGeneratedStyles_19.css" href="css/idGeneratedStyles_19.css" media-type="text/css" />
+		<item id="idGeneratedStyles_20.css" href="css/idGeneratedStyles_20.css" media-type="text/css" />
+		<item id="idGeneratedStyles_21.css" href="css/idGeneratedStyles_21.css" media-type="text/css" />
+		<item id="idGeneratedStyles_22.css" href="css/idGeneratedStyles_22.css" media-type="text/css" />
+		<item id="idGeneratedStyles_23.css" href="css/idGeneratedStyles_23.css" media-type="text/css" />
+		<item id="idGeneratedStyles_24.css" href="css/idGeneratedStyles_24.css" media-type="text/css" />
+		<item id="idGeneratedStyles_25.css" href="css/idGeneratedStyles_25.css" media-type="text/css" />
+		<item id="idGeneratedStyles_26.css" href="css/idGeneratedStyles_26.css" media-type="text/css" />
+		<item id="idGeneratedStyles_27.css" href="css/idGeneratedStyles_27.css" media-type="text/css" />
+		<item id="idGeneratedStyles_28.css" href="css/idGeneratedStyles_28.css" media-type="text/css" />
+		<item id="idGeneratedStyles_29.css" href="css/idGeneratedStyles_29.css" media-type="text/css" />
+		<item id="idGeneratedStyles_30.css" href="css/idGeneratedStyles_30.css" media-type="text/css" />
+		<item id="CommercialPiBT-Regular.ttf" href="font/CommercialPiBT-Regular.ttf" media-type="application/x-font-ttf" />
+		<item id="FranklinGothic-BookOblique.otf" href="font/FranklinGothic-BookOblique.otf" media-type="application/vnd.ms-opentype" />
+		<item id="FranklinGothicStd-ExtraCond.otf" href="font/FranklinGothicStd-ExtraCond.otf" media-type="application/vnd.ms-opentype" />
+		<item id="ITCFranklinGothicStd-Book.ttf" href="font/ITCFranklinGothicStd-Book.ttf" media-type="application/x-font-ttf" />
+		<item id="ITCFranklinGothicStd-BookIt.ttf" href="font/ITCFranklinGothicStd-BookIt.ttf" media-type="application/x-font-ttf" />
+		<item id="ITCFranklinGothicStd-Demi.ttf" href="font/ITCFranklinGothicStd-Demi.ttf" media-type="application/x-font-ttf" />
+		<item id="ITCFranklinGothicStd-Hvy.ttf" href="font/ITCFranklinGothicStd-Hvy.ttf" media-type="application/x-font-ttf" />
+		<item id="ITCFranklinGothicStd-HvyIt.ttf" href="font/ITCFranklinGothicStd-HvyIt.ttf" media-type="application/x-font-ttf" />
+		<item id="ITCFranklinGothicStd-Med.ttf" href="font/ITCFranklinGothicStd-Med.ttf" media-type="application/x-font-ttf" />
+		<item id="ITCFranklinGothicStd-MedIt.ttf" href="font/ITCFranklinGothicStd-MedIt.ttf" media-type="application/x-font-ttf" />
+		<item id="MinionPro-Regular.otf" href="font/MinionPro-Regular.otf" media-type="application/vnd.ms-opentype" />
+		<item id="SymbolMedium.ttf" href="font/SymbolMedium.ttf" media-type="application/x-font-ttf" />
+		<item id="Times-Bold.ttc" href="font/Times-Bold.ttc" media-type="application/x-font-ttf" />
+		<item id="Times-BoldItalic.ttc" href="font/Times-BoldItalic.ttc" media-type="application/x-font-ttf" />
+		<item id="Times-Italic.ttc" href="font/Times-Italic.ttc" media-type="application/x-font-ttf" />
+		<item id="Times-Roman.ttc" href="font/Times-Roman.ttc" media-type="application/x-font-ttf" />
+		<item id="TimesLTStd-Bold.otf" href="font/TimesLTStd-Bold.otf" media-type="application/vnd.ms-opentype" />
+		<item id="TimesLTStd-Italic.otf" href="font/TimesLTStd-Italic.otf" media-type="application/vnd.ms-opentype" />
+		<item id="TimesLTStd-Roman.otf" href="font/TimesLTStd-Roman.otf" media-type="application/vnd.ms-opentype" />
+		<item id="TimesTenLTStd-BoldItalic.otf" href="font/TimesTenLTStd-BoldItalic.otf" media-type="application/vnd.ms-opentype" />
+		<item id="Wingdings-Regular.ttf" href="font/Wingdings-Regular.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="ZapfDingbats.otf" href="font/ZapfDingbats.otf" media-type="application/vnd.ms-opentype" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x3.png" href="image/3.png" media-type="image/png" />
+		<item id="x4.png" href="image/4.png" media-type="image/png" />
+		<item id="x10.png" href="image/10.png" media-type="image/png" />
+		<item id="x11.png" href="image/11.png" media-type="image/png" />
+		<item id="x12.png" href="image/12.png" media-type="image/png" />
+		<item id="x13.png" href="image/13.png" media-type="image/png" />
+		<item id="x14.png" href="image/14.png" media-type="image/png" />
+		<item id="x15.png" href="image/15.png" media-type="image/png" />
+		<item id="x16.png" href="image/16.png" media-type="image/png" />
+		<item id="x17.png" href="image/17.png" media-type="image/png" />
+		<item id="x18.png" href="image/18.png" media-type="image/png" />
+		<item id="x19.png" href="image/19.png" media-type="image/png" />
+		<item id="x20.png" href="image/20.png" media-type="image/png" />
+		<item id="x21.png" href="image/21.png" media-type="image/png" />
+		<item id="AC200512_FM_i-viii-1.jpg" href="image/AC200512_FM_i-viii-1.jpg" media-type="image/jpeg" />
+		<item id="AC200523_new.jpg" href="image/AC200523_new.jpg" media-type="image/jpeg" properties="cover-image" />
+		<item id="c01fig001.png" href="image/c01fig001.png" media-type="image/png" />
+		<item id="c02fig002.png" href="image/c02fig002.png" media-type="image/png" />
+		<item id="c02fig003.png" href="image/c02fig003.png" media-type="image/png" />
+		<item id="c02fig004.png" href="image/c02fig004.png" media-type="image/png" />
+		<item id="c02fig005.png" href="image/c02fig005.png" media-type="image/png" />
+		<item id="c02fig006.png" href="image/c02fig006.png" media-type="image/png" />
+		<item id="c02fig007.png" href="image/c02fig007.png" media-type="image/png" />
+		<item id="c04fig001.png" href="image/c04fig001.png" media-type="image/png" />
+		<item id="c05fig001.jpg" href="image/c05fig001.jpg" media-type="image/jpeg" />
+		<item id="c05fig002.jpg" href="image/c05fig002.jpg" media-type="image/jpeg" />
+		<item id="c06fig001.jpg" href="image/c06fig001.jpg" media-type="image/jpeg" />
+		<item id="c09fig001.jpg" href="image/c09fig001.jpg" media-type="image/jpeg" />
+		<item id="c09fig002.png" href="image/c09fig002.png" media-type="image/png" />
+		<item id="c09fig003.png" href="image/c09fig003.png" media-type="image/png" />
+		<item id="c10fig001.jpg" href="image/c10fig001.jpg" media-type="image/jpeg" />
+		<item id="c10fig002.jpg" href="image/c10fig002.jpg" media-type="image/jpeg" />
+		<item id="c11fig001.jpg" href="image/c11fig001.jpg" media-type="image/jpeg" />
+		<item id="c12fig001.jpg" href="image/c12fig001.jpg" media-type="image/jpeg" />
+		<item id="c12fig002.png" href="image/c12fig002.png" media-type="image/png" />
+		<item id="c12fig003.png" href="image/c12fig003.png" media-type="image/png" />
+		<item id="c13fig001.jpg" href="image/c13fig001.jpg" media-type="image/jpeg" />
+		<item id="c14fig001.jpg" href="image/c14fig001.jpg" media-type="image/jpeg" />
+		<item id="c14fig002.jpg" href="image/c14fig002.jpg" media-type="image/jpeg" />
+		<item id="c14fig004.jpg" href="image/c14fig004.jpg" media-type="image/jpeg" />
+		<item id="c16fig001.jpg" href="image/c16fig001.jpg" media-type="image/jpeg" />
+		<item id="c16fig004.jpg" href="image/c16fig004.jpg" media-type="image/jpeg" />
+		<item id="c17fig003.jpg" href="image/c17fig003.jpg" media-type="image/jpeg" />
+		<item id="c17fig004.jpg" href="image/c17fig004.jpg" media-type="image/jpeg" />
+		<item id="c17fig005.jpg" href="image/c17fig005.jpg" media-type="image/jpeg" />
+		<item id="c18fig001.jpg" href="image/c18fig001.jpg" media-type="image/jpeg" />
+		<item id="c18fig002.jpg" href="image/c18fig002.jpg" media-type="image/jpeg" />
+		<item id="c18fig003.jpg" href="image/c18fig003.jpg" media-type="image/jpeg" />
+		<item id="c20fig001.png" href="image/c20fig001.png" media-type="image/png" />
+		<item id="c20fig002.jpg" href="image/c20fig002.jpg" media-type="image/jpeg" />
+		<item id="c20fig003.jpg" href="image/c20fig003.jpg" media-type="image/jpeg" />
+		<item id="c22Afig001.png" href="image/c22Afig001.png" media-type="image/png" />
+		<item id="c22Afig002.png" href="image/c22Afig002.png" media-type="image/png" />
+		<item id="c22Afig003.jpg" href="image/c22Afig003.jpg" media-type="image/jpeg" />
+		<item id="c22Afig004.jpg" href="image/c22Afig004.jpg" media-type="image/jpeg" />
+		<item id="c22Afig005a.png" href="image/c22Afig005a.png" media-type="image/png" />
+		<item id="c22Afig005b.png" href="image/c22Afig005b.png" media-type="image/png" />
+		<item id="CG_02_Blue.png" href="image/CG_02_Blue.png" media-type="image/png" />
+		<item id="CG_02_Blue1.png" href="image/CG_02_Blue1.png" media-type="image/png" />
+		<item id="CG_02_Blue2.png" href="image/CG_02_Blue2.png" media-type="image/png" />
+		<item id="CG_02_Blue3.png" href="image/CG_02_Blue3.png" media-type="image/png" />
+		<item id="CG_02_Blue4.png" href="image/CG_02_Blue4.png" media-type="image/png" />
+		<item id="CG_02_Blue5.png" href="image/CG_02_Blue5.png" media-type="image/png" />
+		<item id="CG_02_Blue6.png" href="image/CG_02_Blue6.png" media-type="image/png" />
+		<item id="CG_02_Blue7.png" href="image/CG_02_Blue7.png" media-type="image/png" />
+		<item id="CG_02_Blue8.png" href="image/CG_02_Blue8.png" media-type="image/png" />
+		<item id="CG_02_Blue9.png" href="image/CG_02_Blue9.png" media-type="image/png" />
+		<item id="CG_02_Blue10.png" href="image/CG_02_Blue10.png" media-type="image/png" />
+		<item id="CG_02_Blue11.png" href="image/CG_02_Blue11.png" media-type="image/png" />
+		<item id="Icon_1.png" href="image/Icon_1.png" media-type="image/png" />
+		<item id="Icon_11.png" href="image/Icon_11.png" media-type="image/png" />
+		<item id="Icon_12.png" href="image/Icon_12.png" media-type="image/png" />
+		<item id="Icon_13.png" href="image/Icon_13.png" media-type="image/png" />
+		<item id="Icon_14.png" href="image/Icon_14.png" media-type="image/png" />
+		<item id="Icon_15.png" href="image/Icon_15.png" media-type="image/png" />
+		<item id="Icon_16.png" href="image/Icon_16.png" media-type="image/png" />
+		<item id="Icon_17.png" href="image/Icon_17.png" media-type="image/png" />
+		<item id="Icon_18.png" href="image/Icon_18.png" media-type="image/png" />
+		<item id="Icon_19.png" href="image/Icon_19.png" media-type="image/png" />
+		<item id="Icon_110.png" href="image/Icon_110.png" media-type="image/png" />
+		<item id="Icon_111.png" href="image/Icon_111.png" media-type="image/png" />
+		<item id="Icon_112.png" href="image/Icon_112.png" media-type="image/png" />
+		<item id="Icon_113.png" href="image/Icon_113.png" media-type="image/png" />
+		<item id="Icon_114.png" href="image/Icon_114.png" media-type="image/png" />
+		<item id="Icon_115.png" href="image/Icon_115.png" media-type="image/png" />
+		<item id="Icon_116.png" href="image/Icon_116.png" media-type="image/png" />
+		<item id="Icon_117.png" href="image/Icon_117.png" media-type="image/png" />
+		<item id="Icon_118.png" href="image/Icon_118.png" media-type="image/png" />
+		<item id="Icon_119.png" href="image/Icon_119.png" media-type="image/png" />
+		<item id="Icon_120.png" href="image/Icon_120.png" media-type="image/png" />
+		<item id="Icon_121.png" href="image/Icon_121.png" media-type="image/png" />
+		<item id="Icon_122.png" href="image/Icon_122.png" media-type="image/png" />
+		<item id="Icon_123.png" href="image/Icon_123.png" media-type="image/png" />
+		<item id="Icon_124.png" href="image/Icon_124.png" media-type="image/png" />
+		<item id="Icon_125.png" href="image/Icon_125.png" media-type="image/png" />
+		<item id="Icon_126.png" href="image/Icon_126.png" media-type="image/png" />
+		<item id="Icon_127.png" href="image/Icon_127.png" media-type="image/png" />
+		<item id="Icon_128.png" href="image/Icon_128.png" media-type="image/png" />
+		<item id="Icon_129.png" href="image/Icon_129.png" media-type="image/png" />
+		<item id="Icon_130.png" href="image/Icon_130.png" media-type="image/png" />
+		<item id="Icon_131.png" href="image/Icon_131.png" media-type="image/png" />
+		<item id="Icon_132.png" href="image/Icon_132.png" media-type="image/png" />
+		<item id="Icon_133.png" href="image/Icon_133.png" media-type="image/png" />
+		<item id="Icon_134.png" href="image/Icon_134.png" media-type="image/png" />
+		<item id="Icon_135.png" href="image/Icon_135.png" media-type="image/png" />
+		<item id="Icon_136.png" href="image/Icon_136.png" media-type="image/png" />
+		<item id="Icon_137.png" href="image/Icon_137.png" media-type="image/png" />
+		<item id="Icon_138.png" href="image/Icon_138.png" media-type="image/png" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" />
+		<itemref idref="fm_title" />
+		<itemref idref="fm_copyright" />
+		<itemref idref="fm_content" />
+		<itemref idref="fm_detail_content" />
+		<itemref idref="fm_about_author" />
+		<itemref idref="fm_acknowledge" />
+		<itemref idref="fm_preface" />
+		<itemref idref="fm_additional_practice" />
+		<itemref idref="fm_copyright" />
+		<itemref idref="fm_online_resource" />
+		<itemref idref="AC200523_Intro" />
+		<itemref idref="AC200523_01" />
+		<itemref idref="AC200523_02" />
+		<itemref idref="AC200523_03" />
+		<itemref idref="AC200523_04" />
+		<itemref idref="AC200523_05" />
+		<itemref idref="AC200523_06" />
+		<itemref idref="AC200523_07" />
+		<itemref idref="AC200523_08" />
+		<itemref idref="AC200523_09" />
+		<itemref idref="AC200523_10" />
+		<itemref idref="AC200523_11" />
+		<itemref idref="AC200523_12" />
+		<itemref idref="AC200523_13" />
+		<itemref idref="AC200523_14" />
+		<itemref idref="AC200523_15" />
+		<itemref idref="AC200523_16" />
+		<itemref idref="AC200523_17" />
+		<itemref idref="AC200523_18" />
+		<itemref idref="AC200523_19" />
+		<itemref idref="AC200523_20" />
+		<itemref idref="AC200523_21" />
+		<itemref idref="AC200523_22A" />
+		<itemref idref="AC200523_22B" />
+		<itemref idref="AC200523_23" />
+		<itemref idref="AC200523_24" />
+		<itemref idref="AC200523_25" />
+		<itemref idref="AC200523_Coding_Self-Test" />
+		<itemref idref="AC200523_Index" />
+	</spine>
+	<guide>
+		<reference type="cover" href="xhtml/cover.xhtml" title="Cover" />
+	</guide>
+</package>

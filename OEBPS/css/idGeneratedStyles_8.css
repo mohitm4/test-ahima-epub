@@ -1,0 +1,1146 @@
+table.AHIMA {
+	border-collapse:collapse;
+	border-color:#006db6;
+	border-style:solid;
+	border-width:1px;
+	margin-bottom:-4px;
+	margin-top:4px;
+}
+td.AHIMA {
+	border-left-width:1px;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	vertical-align:top;
+}
+tr.AHIMA {
+	page-break-after:auto;
+	page-break-before:auto;
+}
+td.AHIMA_Cell {
+	border-bottom-color:#006db6;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#006db6;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#006db6;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#006db6;
+	border-top-style:solid;
+	border-top-width:1px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+	vertical-align:top;
+}
+td.Cell-Style-1 {
+	border-bottom-color:#006db6;
+	border-bottom-width:1px;
+	border-left-color:#006db6;
+	border-left-width:1px;
+	border-right-color:#006db6;
+	border-right-width:1px;
+	border-top-color:#006db6;
+	border-top-width:1px;
+}
+p._-hd {
+	-epub-hyphens:none;
+	color:#006db6;
+	font-family:"ITC Franklin Gothic Std Heavy", sans-serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.111;
+	margin-bottom:13px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:19px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p._-hd {
+	-epub-hyphens:none;
+	color:#006db6;
+	font-family:"ITC Franklin Gothic Std Heavy", sans-serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.143;
+	margin-bottom:7px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:19px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p._-hd {
+	-epub-hyphens:none;
+	color:#006db6;
+	font-family:"ITC Franklin Gothic (T1) Heavy Oblique", sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.083;
+	margin-bottom:7px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:18px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p._-hd {
+	-epub-hyphens:none;
+	color:#006db6;
+	font-family:"ITC Franklin Gothic Std Heavy", sans-serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.182;
+	margin-bottom:7px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:13px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.B-num-list-flush {
+	color:#000000;
+	font-family:"ITC Franklin Gothic Std Book", sans-serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.222;
+	margin-bottom:0;
+	margin-left:32px;
+	margin-right:12px;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-14px;
+	text-transform:none;
+	widows:1;
+}
+p.B-text-flush {
+	color:#000000;
+	font-family:"ITC Franklin Gothic Std Book", sans-serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.222;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.B-title {
+	color:#ffffff;
+	font-family:"ITC Franklin Gothic Std Heavy", sans-serif;
+	font-size:1.083em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:5px;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+li.Bull-list-flush {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Times (T1) Roman ", sans-serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.182;
+	list-style-position:outside;
+	list-style-type:disc;
+	margin-bottom:7px;
+	margin-left:33px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+li.Bull-list-flush-top {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Times (T1) Roman ", sans-serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.182;
+	list-style-position:outside;
+	list-style-type:disc;
+	margin-bottom:7px;
+	margin-left:33px;
+	margin-right:0;
+	margin-top:13px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Bull_hollow {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Times (T1) Roman ", sans-serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.182;
+	list-style-position:outside;
+	margin-bottom:7px;
+	margin-left:45px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Chap-num {
+	-epub-hyphens:none;
+	color:#006db6;
+	font-family:"ITC Franklin Gothic Std Heavy", sans-serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.1;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Chap-title {
+	-epub-hyphens:none;
+	color:#006db6;
+	font-family:"ITC Franklin Gothic Std Heavy", sans-serif;
+	font-size:2em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.083;
+	margin-bottom:86px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:12px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Check-nl {
+	color:#000000;
+	font-family:"ITC Franklin Gothic Std Book", sans-serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.222;
+	margin-bottom:0;
+	margin-left:32px;
+	margin-right:12px;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-14px;
+	text-transform:none;
+	widows:1;
+}
+p.Ex {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Times (T1) Roman ", sans-serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:13px;
+	margin-left:18px;
+	margin-right:0;
+	margin-top:13px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Fig-source {
+	color:#000000;
+	font-family:Times, serif;
+	font-size:0.667em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.125;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Figure-caption {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Times, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:12px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.IL_Mid-ab-space {
+	color:#000000;
+	font-family:"Times (T1) Roman ", sans-serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.182;
+	margin-bottom:0;
+	margin-left:18px;
+	margin-right:0;
+	margin-top:3px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Refs {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Times (T1) Roman ", sans-serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.182;
+	margin-bottom:7px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.Refs-title {
+	-epub-hyphens:none;
+	color:#006db6;
+	font-family:"ITC Franklin Gothic Std Heavy", sans-serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.143;
+	margin-bottom:7px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:19px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Review-Exe {
+	color:#000000;
+	font-family:"ITC Franklin Gothic Std Book", sans-serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.222;
+	margin-bottom:14px;
+	margin-left:18px;
+	margin-right:0;
+	margin-top:2px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Review-Exe-2digit {
+	-epub-hyphens:none;
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"ITC Franklin Gothic Std Book", sans-serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.222;
+	margin-bottom:7px;
+	margin-left:43px;
+	margin-right:12px;
+	margin-top:22px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-25px;
+	text-transform:none;
+	widows:1;
+}
+p.Review-Exe-NL {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"ITC Franklin Gothic Std Book", sans-serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.444;
+	margin-bottom:4px;
+	margin-left:43px;
+	margin-right:12px;
+	margin-top:22px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-19px;
+	text-transform:none;
+	widows:1;
+}
+p.Review-Exe-hd-2line {
+	-epub-hyphens:none;
+	color:#ffffff;
+	font-family:"ITC Franklin Gothic Std Heavy", sans-serif;
+	font-size:1.333em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.125;
+	margin-bottom:10px;
+	margin-left:12px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.T-col-hd {
+	color:#000000;
+	font-family:Times, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.111;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.T-sou {
+	color:#000000;
+	font-family:"Times (T1) Roman ", sans-serif;
+	font-size:0.667em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.125;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Text {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Times (T1) Roman ", sans-serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.182;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:18px;
+	text-transform:none;
+	widows:1;
+}
+p.Text-flush {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"Times (T1) Roman ", sans-serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.182;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.XM {
+	color:#000000;
+	font-family:"Times (T1) Roman ", sans-serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:7px;
+	margin-left:133px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-15px;
+	text-transform:none;
+	widows:1;
+}
+p.XMS_IL {
+	color:#000000;
+	font-family:"Times (T1) Roman ", sans-serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:133px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-15px;
+	text-transform:none;
+	widows:1;
+}
+p.XMS_IL-2em {
+	color:#000000;
+	font-family:"Times (T1) Roman ", sans-serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:153px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.XMS_first {
+	color:#000000;
+	font-family:"Times (T1) Roman ", sans-serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:133px;
+	margin-right:0;
+	margin-top:13px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-72px;
+	text-transform:none;
+	widows:1;
+}
+span.BL {
+	color:#006db6;
+	font-family:Times, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.Italic {
+	font-style:italic;
+	font-weight:normal;
+}
+span.NL-Color_Check {
+	color:#006db6;
+	font-style:normal;
+	font-weight:normal;
+}
+span.Review-NL {
+	color:#006db6;
+	font-family:"ITC Franklin Gothic Std Med", sans-serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-weight:500;
+}
+table.TableOverride-1 {
+	border-collapse:collapse;
+}
+td.CellOverride-1 {
+	padding-bottom:4px;
+}
+p.ParaOverride-1 {
+	margin-bottom:7px;
+}
+li.ParaOverride-2 {
+	-epub-hyphens:none;
+	margin-top:13px;
+	text-align:left;
+	text-indent:0px;
+}
+li.ParaOverride-3 {
+	-epub-hyphens:none;
+	text-align:left;
+	text-indent:0px;
+}
+p.ParaOverride-4 {
+	margin-bottom:8px;
+}
+p.ParaOverride-5 {
+	margin-bottom:6px;
+}
+p.ParaOverride-6 {
+	margin-top:5px;
+	text-indent:0px;
+}
+p.ParaOverride-7 {
+	margin-top:27px;
+}
+p.ParaOverride-8 {
+	margin-top:25px;
+}
+p.ParaOverride-9 {
+	margin-left:60px;
+	text-indent:0px;
+}
+p.ParaOverride-10 {
+	margin-top:7px;
+}
+p.ParaOverride-11 {
+	margin-top:16px;
+}
+p.ParaOverride-12 {
+	margin-top:15px;
+}
+p.ParaOverride-13 {
+	margin-top:14px;
+}
+p.ParaOverride-14 {
+	margin-top:34px;
+}
+p.ParaOverride-15 {
+	margin-top:13px;
+}
+p.ParaOverride-16 {
+	margin-bottom:0px;
+}
+p.ParaOverride-17 {
+	margin-top:12px;
+}
+p.ParaOverride-18 {
+	-epub-hyphens:none;
+}
+li.ParaOverride-19 {
+	margin-top:12px;
+	text-indent:0px;
+}
+li.ParaOverride-20 {
+	margin-bottom:12px;
+	text-indent:0px;
+}
+li.ParaOverride-21 {
+	margin-top:14px;
+	text-indent:0px;
+}
+p.ParaOverride-22 {
+	margin-top:18px;
+}
+p.ParaOverride-23 {
+	text-indent:18px;
+}
+li.ParaOverride-24 {
+	margin-top:9px;
+	text-indent:0px;
+}
+li.ParaOverride-25 {
+	margin-bottom:9px;
+	text-indent:0px;
+}
+p.ParaOverride-26 {
+	margin-bottom:0px;
+	margin-top:9px;
+}
+p.ParaOverride-27 {
+	margin-bottom:0px;
+	margin-top:3px;
+}
+p.ParaOverride-28 {
+	margin-bottom:0px;
+	margin-top:3px;
+	text-align:left;
+}
+li.ParaOverride-29 {
+	margin-top:13px;
+	text-indent:0px;
+}
+li.ParaOverride-30 {
+	-epub-hyphens:none;
+	text-indent:0px;
+}
+p.ParaOverride-31 {
+	margin-top:6px;
+}
+p.ParaOverride-32 {
+	margin-bottom:4px;
+}
+p.ParaOverride-33 {
+	text-indent:-19px;
+}
+p.ParaOverride-34 {
+	font-size:1em;
+	list-style-type:none;
+	margin-left:12px;
+}
+p.ParaOverride-35 {
+	text-indent:0px;
+}
+p.ParaOverride-36 {
+	margin-top:9px;
+}
+p.ParaOverride-37 {
+	margin-top:11px;
+}
+li.ParaOverride-38 {
+	margin-bottom:0px;
+	text-indent:0px;
+}
+p.ParaOverride-39 {
+	margin-bottom:6px;
+	margin-top:8px;
+}
+p.ParaOverride-40 {
+	margin-bottom:11px;
+}
+p.ParaOverride-41 {
+	margin-top:0px;
+}
+p.ParaOverride-42 {
+	text-indent:-25px;
+}
+p.ParaOverride-43 {
+	margin-top:24px;
+	text-indent:-25px;
+}
+p.ParaOverride-44 {
+	margin-top:23px;
+	text-indent:-25px;
+}
+p.ParaOverride-45 {
+	text-align:center;
+}
+p.ParaOverride-46 {
+	margin-right:0px;
+	text-align:right;
+}
+span.CharOverride-1 {
+	font-family:Times, serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	font-family:Times, serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-3 {
+	font-family:Times, serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-4 {
+	color:#006db6;
+	font-size:1em;
+}
+span.CharOverride-5 {
+	font-family:"Minion Pro", serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-6 {
+	font-family:"CommercialPi BT";
+	font-size:0.545em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-7 {
+	font-family:Times;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-8 {
+	font-family:Times, serif;
+	font-size:0.909em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-9 {
+	color:#000000;
+	font-family:"ITC Franklin Gothic Std Book";
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-10 {
+	-epub-text-combine:none;
+	color:#000000;
+	font-family:"ITC Franklin Gothic Std Book", sans-serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-transform:none;
+}
+span.CharOverride-11 {
+	color:#000000;
+	font-family:"Times LT Std", serif;
+	font-size:1em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-12 {
+	font-family:"ITC Franklin Gothic Std Heavy";
+	font-style:oblique;
+	font-weight:normal;
+}
+span._idGenCharOverride-1 {
+	font-family:"ITC Franklin Gothic Std Med";
+}
+span._idGenCharOverride-2 {
+	font-size:1em;
+}
+td._idGenCellOverride-1 {
+	background-color:#c9d7ec;
+	border-bottom-color:#006db6;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-left-color:#006db6;
+	border-left-style:solid;
+	border-left-width:1px;
+	border-right-color:#006db6;
+	border-right-style:solid;
+	border-right-width:1px;
+	border-top-color:#006db6;
+	border-top-style:solid;
+	border-top-width:1px;
+}
+#_idContainer500, #_idContainer504, #_idContainer508, #_idContainer512, #_idContainer516, #_idContainer520, #_idContainer526, #_idContainer531 {
+	height:33.51px;
+	left:0px;
+	position:relative;
+	top:0px;
+	width:5.95px;
+	z-index:1;
+}
+#_idContainer501, #_idContainer505, #_idContainer509, #_idContainer513, #_idContainer517, #_idContainer521, #_idContainer527, #_idContainer532 {
+	height:33.46px;
+	left:6px;
+	position:relative;
+	top:-34px;
+	width:27.26px;
+	z-index:0;
+}
+#_idContainer502, #_idContainer506, #_idContainer510, #_idContainer514, #_idContainer518, #_idContainer522, #_idContainer528, #_idContainer533 {
+	height:33.51px;
+	left:33px;
+	position:relative;
+	top:-67px;
+	width:5.95px;
+	z-index:2;
+}
+#_idContainer503, #_idContainer507, #_idContainer511, #_idContainer515, #_idContainer519, #_idContainer523, #_idContainer529, #_idContainer534 {
+	display:inline-block;
+	height:34px;
+	position:relative;
+	width:39px;
+}
+#_idContainer525 {
+	display:inline-block;
+	height:21px;
+	position:relative;
+	width:26px;
+}
+#_idContainer530 {
+	display:inline-block;
+	height:12px;
+	position:relative;
+	width:11px;
+}
+#_idContainer537 {
+	height:252.59px;
+	left:0px;
+	overflow:hidden;
+	position:relative;
+	top:19px;
+	width:413.00px;
+	z-index:0;
+}
+#_idContainer538 {
+	height:5.60px;
+	left:18px;
+	position:relative;
+	top:20px;
+	width:6.13px;
+	z-index:1;
+}
+#_idContainer539 {
+	display:inline-block;
+	height:287px;
+	position:relative;
+	width:414px;
+}
+#_idContainer543 {
+	display:inline-block;
+	height:220px;
+	position:relative;
+	width:414px;
+}
+#_idContainer545, #_idContainer546 {
+	display:inline-block;
+	height:135px;
+	position:relative;
+	width:414px;
+}
+#_idContainer547 {
+	display:inline-block;
+	height:251px;
+	width:413px;
+}
+#_idContainer548 {
+	display:inline-block;
+	height:24px;
+	position:relative;
+	width:54px;
+}
+#_idContainer550 {
+	display:inline-block;
+	height:643px;
+	width:413px;
+}
+#_idContainer552 {
+	display:inline-block;
+	height:16px;
+	position:relative;
+	width:37px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+img._idGenObjectAttribute-2 {
+	height:241px;
+	width:408px;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2 {
+	border-color:#006db6;
+}
+div._idGenObjectStyleOverride-3 {
+	border-color:#006db6;
+	border-width:1px;
+}
+div._idGenObjectLayout-1 {
+	margin:3px auto 3px auto;
+	text-align:center;
+}
+div._idGenObjectLayout-2 {
+	text-align:center;
+}
+div._idGenWritingDirection-1 {
+	-epub-writing-mode:horizontal-tb;
+}
